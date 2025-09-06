@@ -32,11 +32,9 @@ The goal is to enable early detection and support doctors in taking preventive m
 
 ## 🧪 Dataset Info
 
-Source: Kaggle – Brain Stroke Dataset
-
-Features: Age, Gender, Hypertension, Heart Disease, Work Type, Residence Type, Avg Glucose Level, BMI, Smoking Status
-
-Target Column: stroke (0 = No Stroke, 1 = Stroke)
+* Source: Kaggle – https://www.kaggle.com/datasets/samueltaiwograce/stroke-dataset
+* Features: Age, Gender, Hypertension, Heart Disease, Work Type, Residence Type, Avg Glucose Level, BMI, Smoking Status
+* Target Column: stroke (0 = No Stroke, 1 = Stroke)
 
 ## 📈 Visuals Included
 
