@@ -23,17 +23,12 @@ The goal is to enable early detection and support doctors in taking preventive m
 * ROC-AUC	0.94
 ## 🧰 Libraries Used
 
-pandas, numpy
-
-matplotlib, seaborn
-
-scikit-learn
-
-xgboost
-
-imblearn
-
-joblib
+* pandas, numpy
+* matplotlib, seaborn
+* scikit-learn
+* xgboost
+* imblearn
+* joblib
 
 ## 🧪 Dataset Info
 
