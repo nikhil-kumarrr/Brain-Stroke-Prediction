@@ -15,12 +15,12 @@ The goal is to enable early detection and support doctors in taking preventive m
 
 
 ## 📊 Sample Results (Logistic Regression after SMOTE)
-* Metric	Score
-* Accuracy	0.92
-* Precision	0.78
-* Recall	0.81
-* F1 Score	0.79
-* ROC-AUC	0.94
+* Metric	      Score
+* Accuracy	    0.92
+* Precision	    0.78
+* Recall	      0.81
+* F1 Score	    0.79
+* ROC-AUC	      0.94
 ## 🧰 Libraries Used
 
 * pandas, numpy
