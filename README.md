@@ -13,7 +13,6 @@ The goal is to enable early detection and support doctors in taking preventive m
 * Hyperparameter Tuning using GridSearchCV for best model performance
 * Clean & Reusable Pipeline (can directly joblib.dump() for deployment)
 
-✅ Future-Ready: Can be integrated with a Streamlit app for real-time predictions
 
 ## 📊 Sample Results (Logistic Regression after SMOTE)
 Metric	Score
