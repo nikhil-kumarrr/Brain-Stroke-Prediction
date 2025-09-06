@@ -2,6 +2,7 @@
 
 This project predicts the likelihood of a person suffering from a stroke using clinical and demographic data.
 The goal is to enable early detection and support doctors in taking preventive measures by leveraging Machine Learning.
+
 ---
 
 ## Features Included
@@ -13,6 +14,7 @@ The goal is to enable early detection and support doctors in taking preventive m
 * ROC-AUC Curves plotted for all models
 * Hyperparameter Tuning using GridSearchCV for best model performance
 * Clean & Reusable Pipeline (can directly joblib.dump() for deployment)
+
 ---
 
 ## 📊 Sample Results (Logistic Regression after SMOTE)
@@ -22,6 +24,7 @@ The goal is to enable early detection and support doctors in taking preventive m
 * Recall	      0.81
 * F1 Score	    0.79
 * ROC-AUC	      0.94
+  
 --- 
 
 ## 🧰 Libraries Used
@@ -31,12 +34,14 @@ The goal is to enable early detection and support doctors in taking preventive m
 * xgboost
 * imblearn
 * joblib
+  
 ---
 
 ## 🧪 Dataset Info
 * Source: Kaggle – https://www.kaggle.com/datasets/samueltaiwograce/stroke-dataset
 * Features: Age, Gender, Hypertension, Heart Disease, Work Type, Residence Type, Avg Glucose Level, BMI, Smoking Status
 * Target Column: stroke (0 = No Stroke, 1 = Stroke)
+  
 ---
 
 ## 📈 Visuals Included
