@@ -1,4 +1,4 @@
-# 🧠 Brain Stroke Prediction using Machine Learning
+# Brain Stroke Prediction using Machine Learning
 
 This project predicts the likelihood of a person suffering from a stroke using clinical and demographic data.
 The goal is to enable early detection and support doctors in taking preventive measures by leveraging Machine Learning.
@@ -17,7 +17,7 @@ The goal is to enable early detection and support doctors in taking preventive m
 
 ---
 
-## 📊 Sample Results 
+## Sample Results 
 * Metric	      Score
 * Accuracy	    0.92
 * Precision	    0.78
@@ -27,7 +27,7 @@ The goal is to enable early detection and support doctors in taking preventive m
   
 --- 
 
-## 🧰 Libraries Used
+## Libraries Used
 * pandas, numpy
 * matplotlib, seaborn
 * scikit-learn
@@ -44,7 +44,7 @@ The goal is to enable early detection and support doctors in taking preventive m
   
 ---
 
-## 📈 Visuals Included
+## Visuals Included
 * Class Distribution Visualization before and after SMOTE
 * Correlation Heatmap of numerical features
 * ROC-AUC Curves for model comparison
